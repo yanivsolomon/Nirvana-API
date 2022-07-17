@@ -1,5 +1,5 @@
 # Nirvana-API
-this API test file is containing the following tests:
+this API test file is using music data API by musicbrainz.org and containing the following tests:
 1. fetch status code (valid/invalid)
 2. fetch Nirvana's founding date (valid/invalid)
 3. fetch Nirvana's ending date (valid/invalid)
